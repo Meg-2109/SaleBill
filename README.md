@@ -8,8 +8,11 @@
 
 -> Generating the bill.
 
-**Technologies Used:****
+**Technologies Used:**
+
 ->Java
+
 ->JDBC
+
 ->MySQL
 
