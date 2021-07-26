@@ -1,33 +1,18 @@
 package SalesBill;
 
 import java.sql.*;
-import java.util.logging.Level;
-import java.util.logging.Logger;
+import java.util.logging.*;
 import java.awt.EventQueue;
-
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JOptionPane;
-import javax.swing.JPanel;
+import javax.swing.*;
 import javax.swing.border.TitledBorder;
-import java.awt.Color;
-import javax.swing.UIManager;
-import java.awt.Font;
-import javax.swing.JTextField;
-import javax.swing.JSpinner;
-import javax.swing.JButton;
+import java.awt.*;
+import javax.swing.*;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-import javax.swing.JTable;
-import javax.swing.border.MatteBorder;
-import javax.swing.border.LineBorder;
-import javax.swing.border.CompoundBorder;
+import javax.swing.border.*;
 import javax.swing.table.DefaultTableModel;
-import javax.swing.JTextArea;
-import java.awt.event.KeyAdapter;
-import java.awt.event.KeyEvent;
-import javax.swing.event.ChangeListener;
-import javax.swing.event.ChangeEvent;
+import java.awt.event.*;
+import javax.swing.event.*;
 
 public class Sales {
 
