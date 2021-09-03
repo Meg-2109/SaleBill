@@ -28,7 +28,7 @@ public class Sales {
 	private JTable table_1;
 	private JTable table_2;
 
-	/**
+	/*
 	 * Launch the application.
 	 */
 	public static void main(String[] args) {
