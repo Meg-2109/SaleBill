@@ -27,7 +27,7 @@ public class Sales {
 	private JTable table;
 	private JTable table_1;
 	private JTable table_2;
-
+//
 	/*
 	 * Launch the application.
 	 */
